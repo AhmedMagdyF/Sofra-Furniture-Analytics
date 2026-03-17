@@ -37,7 +37,7 @@ Power BI Dashboard (4 Pages)
 | Page | Description | Key KPIs |
 |------|-------------|----------|
 | **Sales Performance** | Revenue trends, channel & category analysis | 1.13B EGP Revenue · 160K Units · 20% Return Rate |
-![Sales Performance](screenshots/01_Sales_Performance.png)
+![Sales Performance](Screenshot 2026-03-17 082239.png)
 | **Production & Scrap** | Efficiency tracking, scrap analysis | 95.68% Efficiency · 7.51% Avg Scrap |
 ![Production & Scrap](screenshots/02_Production_Scrap.png)
 | **Purchases & Suppliers** | Spend analysis, supplier performance | 3.66B EGP Spend · 12 Suppliers |
