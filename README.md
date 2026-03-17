@@ -39,7 +39,7 @@ Power BI Dashboard (4 Pages)
 | **Sales Performance** | Revenue trends, channel & category analysis | 1.13B EGP Revenue · 160K Units · 20% Return Rate 
 ![Sales Performance](https://github.com/AhmedMagdyF/Sofra-Furniture-Analytics/blob/main/Screenshot%202026-03-17%20082239.png)
 | **Production & Scrap** | Efficiency tracking, scrap analysis | 95.68% Efficiency · 7.51% Avg Scrap |
-![Production & Scrap](screenshots/02_Production_Scrap.png)
+![Production & Scrap](https://github.com/AhmedMagdyF/Sofra-Furniture-Analytics/blob/main/Screenshot%202026-03-17%20082308.png)
 | **Purchases & Suppliers** | Spend analysis, supplier performance | 3.66B EGP Spend · 12 Suppliers |
 ![Purchases & Suppliers](https://github.com/AhmedMagdyF/Sofra-Furniture-Analytics/blob/main/Screenshot%202026-03-17%20082343.png)
 | **Product Profitability** | Gross profit, margin analysis | 42.31% GP Margin · 4 Negative Margin Products |
