@@ -43,7 +43,7 @@ Power BI Dashboard (4 Pages)
 | **Purchases & Suppliers** | Spend analysis, supplier performance | 3.66B EGP Spend · 12 Suppliers |
 ![Purchases & Suppliers](https://github.com/AhmedMagdyF/Sofra-Furniture-Analytics/blob/main/Screenshot%202026-03-17%20082343.png)
 | **Product Profitability** | Gross profit, margin analysis | 42.31% GP Margin · 4 Negative Margin Products |
-![Product Profitability](screenshots/04_Product_Profitability.png)
+![Product Profitability](https://github.com/AhmedMagdyF/Sofra-Furniture-Analytics/blob/main/Screenshot%202026-03-17%20082508.png)
 
 ---
 
