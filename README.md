@@ -133,6 +133,6 @@ CREATE DATABASE SofraFurnitureDB;
 
 ## 👤 Author
 
-**[Your Name]**  
+**[Ahmed Magdy Farag]**  
 Data Analyst  
 [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
